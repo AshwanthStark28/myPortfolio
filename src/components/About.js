@@ -2,8 +2,8 @@ import AboutImg from '../assets/about.png';
 
 export default function About () {
     const config  = {
-        line1: 'Previously worked as a QA tester at Cognizant.',
-        line2: 'Seeking a transition into a front-end developer role where I can contribute to building high-quality and user-friendly web applications.',
+        line1: 'Junior Front-End Developer with a strong base in core web technologies.',
+        line2: 'Aiming to build dynamic, responsive, and user-centric web applications',
         line3: 'Proficient in HTML, CSS, Tailwind CSS, JavaScript, React, Git, and responsive web design.'
     }
 
